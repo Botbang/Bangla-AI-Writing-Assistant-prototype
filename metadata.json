@@ -1,0 +1,7 @@
+{
+  "name": "Bangla AI Writing Assistant (Powered by Google Gemini)",
+  "description": "An AI-powered assistant to help you write accurate and grammatically correct Bengali. The spell checker runs continuously, highlighting mistakes and offering suggestions with explanations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
